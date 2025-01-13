@@ -332,8 +332,8 @@
         fill="none"/>
     
     <!-- LRT 2 to LRT 1 -->
-    <path d="M200 228
-            L233 228
+    <path d="M200 225
+            L233 225
             L233 250" 
         stroke="#666666" 
         stroke-width="2"
