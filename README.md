@@ -12,4 +12,4 @@ A modern SVG map of Manila's metro rail transit system (LRT-1, LRT-2, and MRT-3)
 Perfect for web embedding, documentation, or transit information displays.
 
 ## Preview
-![Manila Metro Rail Transit Map 2024](https://i.imgur.com/ea27LZU.png)
+![Manila Metro Rail Transit Map 2024](./manila-rail-transit-2024.svg)
