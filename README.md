@@ -1,7 +1,7 @@
 # Manila Metro Rail Transit Map 2024
 
 
-A modern SVG map of Manila's metro rail transit system (LRT-1, LRT-2, and MRT-3) featuring:
+A simple SVG map of Manila's metro rail transit system (LRT-1, LRT-2, and MRT-3) featuring:
 
 - Color-coded lines (LRT-1, LRT-2, MRT-3)
 - Station markers with names and interchange points
